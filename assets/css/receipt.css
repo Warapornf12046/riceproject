@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.company-info {
+    margin-top: 20px;
+}
+
+.company-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.company-address {
+    margin-top: 10px;
+}
+
+.customer-info {
+    margin-top: 20px;
+}
+
+.customer-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.customer-phone {
+    margin-top: 10px;
+}
+
+.date {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.table th,
+.table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table th {
+    text-align: center;
+}
+
+.total {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.print-button {
+    display: block;
+    margin:  auto;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
